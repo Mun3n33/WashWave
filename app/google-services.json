@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561382721667",
+    "project_id": "washwave-b8779",
+    "storage_bucket": "washwave-b8779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561382721667:android:a0582c5218fc10273f33b6",
+        "android_client_info": {
+          "package_name": "com.example.washwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3KG1YbGfdQ9uNdwSWAcA1oGZUajIz2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
